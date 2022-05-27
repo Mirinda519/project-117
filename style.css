@@ -1,0 +1,19 @@
+body
+{
+    background-color:cornsilk;
+}
+#score
+{
+    margin: 20px;
+    font-size:20px;
+}
+#time
+{
+     float: right;
+    margin: 20px;
+    font-size:20px;
+}
+#sketch_name
+{
+    font: red;
+}
